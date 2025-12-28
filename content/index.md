@@ -1,4 +1,8 @@
-
+---
+title: Our DND World WIki
+aliases:
+  - Home
+---
 # [[The Gods]]
 
 # [[Magic]]
