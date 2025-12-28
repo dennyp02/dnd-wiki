@@ -10,3 +10,12 @@
   padding: 8px;
   border-radius: 8px;
 }
+
+a.img-zoom img {
+  cursor: zoom-in;
+  transition: transform 0.2s ease;
+}
+
+a.img-zoom img:hover {
+  transform: scale(1.03);
+}
