@@ -7,41 +7,63 @@
   border-radius: 8px;
   padding: 10px;
   background-color: #1b1b1b;
-  width: 300px;           /* Set fixed width */
-  float: right;           /* Wrap text around */
-  margin: 0 1rem 1rem 0;  /* Space between box and text */
+  width: 300px;
+  float: right;            /* Wrap text around box */
+  margin: 0 1rem 1rem 0;
   font-size: 0.9rem;
-  text-align: center;
+  text-align: left;        /* Table text left-aligned */
+}
+
+.infobox a {
+  display: block;
+  text-align: center;      /* Center the image */
 }
 
 .infobox img {
-  max-width: 100%;        /* Scale to container width */
-  max-height: 300px;      /* Limit height */
-  object-fit: contain;    /* Keep aspect ratio */
+  max-width: 100%;
+  max-height: 300px;
+  object-fit: contain;
   border-radius: 4px;
-  display: block;
-  cursor: pointer;        /* Show pointer to indicate clickable */
+  display: inline-block;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
 }
 
-/* Clear floats if needed */
-.clearfix::after {
-  content: "";
-  display: table;
-  clear: both;
+.name-pronouns {
+  text-align: center;      /* Center name and pronouns */
+  margin-bottom: 0.5rem;
+}
+
+.infobox h3 {
+  margin: 0;               /* Remove default margins */
+}
+
+.infobox .pronouns {
+  font-size: 0.8rem;
+  color: #ccc;
+  margin-top: 0.1rem;
+}
+
+.infobox-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.2rem;
+}
+
+.infobox-table td {
+  padding: 2px 5px;
+  vertical-align: top;
+}
+
+.infobox-table td:first-child {
+  font-weight: bold;
+  width: 35%; /* Column for labels */
 }
 
 @media screen and (max-width: 768px) {
   .infobox {
-    float: none;          /* Stack on small screens */
+    float: none;
     width: 100%;
     margin: 0 0 1rem 0;
   }
 }
-.infobox .pronouns {
-  font-size: 0.8rem;     /* Smaller font under name */
-  color: #ccc;           /* Optional: subtle color */
-  margin-bottom: 0.5rem;
-}
-.infobox h3 {
-  margin-top: 0;       /* Remove top margin */
-  margin-bottom: -0.25rem; /* Small spacing to pronouns */

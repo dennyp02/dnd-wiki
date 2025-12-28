@@ -1,6 +1,6 @@
 ---
 title: TEST NPC
-image: /images/npcs/template.png
+image: /images/npcs/test-npc.jpg
 pronouns: he/him
 race: Human
 role: Adventurer
@@ -11,21 +11,37 @@ location: Testlands
 <!-- Infobox -->
 <div class="infobox">
   <!-- Clickable portrait -->
-  <a href="/images/npcs/template.png" target="_blank" rel="noopener">
-    <img src="/images/npcs/template.png" class="wiki-image" alt="TEST NPC">
+  <a href="/images/npcs/test-npc.jpg" target="_blank" rel="noopener">
+    <img src="/images/npcs/test-npc.jpg" class="wiki-image" alt="TEST NPC">
   </a>
 
-  <!-- Info -->
-  <h3>TEST NPC</h3>
-  <div class="pronouns">(he/him)</div>
-  <strong>Race:</strong> Human<br>
-  <strong>Role:</strong> Adventurer<br>
-  <strong>Faction:</strong> Test Guild<br>
-  <strong>Location:</strong> Testlands<br>
+  <!-- Name + pronouns centered -->
+  <div class="name-pronouns">
+    <h3>TEST NPC</h3>
+    <div class="pronouns">(he/him)</div>
+  </div>
+
+  <!-- Info table -->
+  <table class="infobox-table">
+    <tr>
+      <td>Race</td>
+      <td>Human</td>
+    </tr>
+    <tr>
+      <td>Role</td>
+      <td>Adventurer</td>
+    </tr>
+    <tr>
+      <td>Faction</td>
+      <td>Test Guild</td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Testlands</td>
+    </tr>
+  </table>
 </div>
 
-This is a test NPC for your D&D wiki.  
-Use this section to describe their backstory, personality traits, abilities, or any other notes relevant for your campaign.  
-
+Linnea is a skilled scout known for her speed and stealth.  
 Text will wrap neatly around the infobox, and the portrait is scaled to fit within a 300x300 px box.  
 Clicking the image opens it full-size in a new tab.
