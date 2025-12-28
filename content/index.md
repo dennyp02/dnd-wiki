@@ -12,3 +12,5 @@ aliases:
 # [[Factions]]
 
 [[Test NPC]]
+
+[[NPC TEMPLATE]]
