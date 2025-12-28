@@ -1,26 +1,31 @@
 ---
-title: Test NPC
-image: /images/npcs/test-npc.jpg
-race: Race
-role: Role
-faction: Faction
-location: Location
+title: TEST NPC
+image: /images/npcs/template.png
+pronouns: he/him
+race: Human
+role: Adventurer
+faction: Test Guild
+location: Testlands
 ---
 
 <!-- Infobox -->
 <div class="infobox">
   <!-- Clickable portrait -->
-  <a href="/images/npcs/test-npc.jpg" target="_blank" rel="noopener">
-    <img src="/images/npcs/test-npc.jpg" class="wiki-image" alt="NPC Name">
+  <a href="/images/npcs/template.png" target="_blank" rel="noopener">
+    <img src="/images/npcs/template.png" class="wiki-image" alt="TEST NPC">
   </a>
 
-  <!-- Stats -->
-  <h3>Test NPC</h3>
+  <!-- Info -->
+  <h3>TEST NPC</h3>
+  <div class="pronouns">(he/him)</div>
   <strong>Race:</strong> Human<br>
-  <strong>Role:</strong> Bartender<br>
-  <strong>Faction:</strong> Faction<br>
-  <strong>Location:</strong> Location<br>
+  <strong>Role:</strong> Adventurer<br>
+  <strong>Faction:</strong> Test Guild<br>
+  <strong>Location:</strong> Testlands<br>
 </div>
 
-<!-- Description -->
-Write your NPC description here. Add personality traits, backstory, and anything relevant for your D&D world.
+This is a test NPC for your D&D wiki.  
+Use this section to describe their backstory, personality traits, abilities, or any other notes relevant for your campaign.  
+
+Text will wrap neatly around the infobox, and the portrait is scaled to fit within a 300x300 px box.  
+Clicking the image opens it full-size in a new tab.
