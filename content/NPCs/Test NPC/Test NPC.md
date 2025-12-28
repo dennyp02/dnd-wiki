@@ -6,4 +6,4 @@ tags:
 location: Arcadia
 faction: The Gilded Page
 ---
- <img src="portrait.jpg" class="wiki-img" alt="Heska Gilden">Test NPC
+ <img src="images/npcs/test-npc.jpg" class="wiki-img" alt="Test">Test NPC
