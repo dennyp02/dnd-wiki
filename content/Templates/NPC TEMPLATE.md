@@ -13,7 +13,7 @@ tags: [scout, guild-member, friendly]
 <div class="infobox">
   <!-- Clickable portrait -->
   <a href="/images/npcs/test-npc.jpg" target="_blank" rel="noopener">
-    <img src="/images/npcs/test-npc.jpg" class="wiki-image no-zoom" alt="TEST NPC">
+    <img src="/images/npcs/test-npc.jpg" class="wiki-image no-lightbox" alt="TEST NPC">
   </a>
 
   <!-- Name + pronouns centered -->
@@ -24,29 +24,13 @@ tags: [scout, guild-member, friendly]
 
   <!-- Info table -->
   <table class="infobox-table">
-    <tr>
-      <td>Species</td>
-      <td>Human</td>
-    </tr>
-    <tr>
-      <td>Role</td>
-      <td>Adventurer</td>
-    </tr>
-    <tr>
-      <td>Faction</td>
-      <td>Test Guild</td>
-    </tr>
-    <tr>
-      <td>Location</td>
-      <td>Testlands</td>
-    </tr>
-    <tr>
-      <td>Tags</td>
-      <td>scout, guild-member, friendly</td>
-    </tr>
+    <tr><td>Species</td><td>Human</td></tr>
+    <tr><td>Role</td><td>Adventurer</td></tr>
+    <tr><td>Faction</td><td>Test Guild</td></tr>
+    <tr><td>Location</td><td>Testlands</td></tr>
+    <tr><td>Tags</td><td>scout, guild-member, friendly</td></tr>
   </table>
 </div>
 
 Linnea is a skilled scout known for her speed and stealth.  
-Text will wrap neatly around the infobox, and the portrait is scaled to fit within a 300x300 px box.
-Clicking the image opens it full-size in a new tab.
+Text will wrap neatly around the infobox, and the portrait is scaled to fit within a 300×300 px box.
