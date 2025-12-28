@@ -10,3 +10,5 @@ aliases:
 # [[The Planet]]
 
 # [[Factions]]
+
+[[Test NPC]]
