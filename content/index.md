@@ -1,17 +1,6 @@
 
 # [[The Gods]]
-- [[Major Deities]]
-	1. [[True Neutral Deity]]
-	2. [[Neutral Evil Deity]]
-	3. [[Lawful Evil Deity (Magic giver)]]
-	4. [[Chaotic Neutral Deity]]
-	5. [[Lawful Good Deity]]
-	6. [[Chaotic Evil Deity]]
-	7. [[Chaotic Good Deity]]
-	8. [[Lawful Neutral Deity]]
-	9. [[Lawful Good Deity2]]
-	10. [[True Neutral Deity2]]
-- [[Demigods]]
+
 # [[Magic]]
 
 # [[The Planet]]

@@ -1,0 +1,3 @@
+### [[Major Deities]]
+
+### [[Demigods]]
