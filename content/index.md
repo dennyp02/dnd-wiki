@@ -8,3 +8,5 @@ aliases:
 # [[Magic]]
 
 # [[The Planet]]
+
+# [[Factions]]

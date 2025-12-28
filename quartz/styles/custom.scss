@@ -1,3 +1,9 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.wiki-img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover; /* crops evenly */
+  border-radius: 8px;
+}
