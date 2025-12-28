@@ -7,19 +7,24 @@
   border-radius: 8px;
   padding: 10px;
   background-color: #1b1b1b;
-  width: 300px;              /* Fixed width */
-  max-width: 100%;           /* Never exceed container */
-  box-sizing: border-box;    /* Include padding and border in width */
-  float: right;              /* Wrap text around */
+  width: 300px;
+  max-width: 100%;
+  box-sizing: border-box;
+  float: right;
   margin: 0 1rem 1rem 0;
   font-size: 0.9rem;
-  text-align: left;          /* Table text left-aligned */
-  overflow: hidden;          /* Remove any inner scrollbars */
+  text-align: left;
+  overflow-x: hidden;
+  overflow-y: visible;
+}
+
+.infobox * {
+  box-sizing: border-box;
 }
 
 .infobox a {
   display: block;
-  text-align: center;        /* Center the image */
+  text-align: center;
 }
 
 .infobox img {
@@ -30,10 +35,11 @@
   display: inline-block;
   cursor: pointer;
   margin-bottom: 0.5rem;
+  pointer-events: auto;
 }
 
 .name-pronouns {
-  text-align: center;        /* Center name + pronouns */
+  text-align: center;
   margin-bottom: 0.5rem;
 }
 
@@ -45,14 +51,15 @@
   font-size: 0.8rem;
   color: #ccc;
   margin-top: 0.1rem;
+  margin-bottom: 0.3rem;
 }
 
 .infobox-table {
-  width: 100%;               /* Make table fit the box exactly */
+  width: 100%;
   border-collapse: collapse;
-  table-layout: fixed;       /* Prevent table overflow */
+  table-layout: auto;
   margin-top: 0.2rem;
-  word-wrap: break-word;     /* Wrap long text */
+  word-wrap: break-word;
 }
 
 .infobox-table td {
@@ -62,7 +69,7 @@
 
 .infobox-table td:first-child {
   font-weight: bold;
-  width: 35%;                /* Column for labels */
+  width: 35%;
 }
 
 @media screen and (max-width: 768px) {
@@ -72,4 +79,5 @@
     margin: 0 0 1rem 0;
   }
 }
+
 
