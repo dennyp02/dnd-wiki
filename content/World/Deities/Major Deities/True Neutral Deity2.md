@@ -1,0 +1,24 @@
+- Male figure (God of Trickery)
+- They are dying
+- They are very sick
+- The sickness can affect other gods
+- The sickness cannot be cured
+- They have not been isolated by other gods
+- The other gods know about their sickness
+- The other gods fear the sickness
+- They have no followers
+- The sickness was definitely caused by the loss of faith
+- The followers did not lose their faith because of anything this god did or didn't do
+- They didn't lose followers because of time
+- They once has followers
+- They used to have a lot of followers
+- A mortal caused them to lose followers
+- They are not dying soon
+- They cannot gain any more followers
+- They have been wished away by a mortal
+- One of their followers wished them away
+- The god despises that person
+- This person is still alive
+- This person is very aware of what they did.
+- They did it out of revenge
+- The person is most definitely evil.

@@ -1,0 +1,12 @@
+- Male Figure (God of Life)
+- Losing followers and being forgotten
+- They have always been evil
+- They consume Life or a type of life force
+- They do not consume living things
+- They consume gods
+- They are not more powerful than other gods
+- The other gods are afraid of them
+- Their followers are part of a cult
+- The cult is known to the outside world
+- They are very feared by the outside world
+- The cult is not around anymore

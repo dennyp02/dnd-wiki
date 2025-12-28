@@ -1,0 +1,7 @@
+- Male Figure (God of Nature)
+- Stable and have many followers
+- They are quite active with their followers speaking to them through animals and plants.
+- The faith is not supported by the government but not illegal
+- the common people respect them
+- The god themselves doesn't have any issues, but their followers have an issue with the Government.
+- The government has an item that the followers want

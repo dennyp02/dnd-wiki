@@ -1,0 +1,6 @@
+- Feminine Figure (God of Trickery)
+- Exiled from the realm of gods and stripped of their powers
+- They were exiled because of something bad they did to the gods
+- What they did benefitted mortals, and the gods punished them because of it.
+- Their actions extremely changed the way the mortal realm works today
+- They gave mortals the ability to wield magic

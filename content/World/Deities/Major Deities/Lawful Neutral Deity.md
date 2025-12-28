@@ -1,0 +1,14 @@
+- Female Figure (God of Light)
+- Stable with many followers
+- Not a well known deity to the outside world
+- They do not love their followers
+- The followers have not done anything to lose that love
+- This god never speaks to their followers
+- They do not grant abilities
+- They cant do all of the things above
+- They were not cursed by another god
+- They are trapped but not by another god, item or their followers.
+- They are trapped in the mortal realm
+- They are almost impossible to get to.
+- They still do have power but not much.
+- Something is anchoring them to the mortal realm.

@@ -1,0 +1,3 @@
+- Derived from a diving inlfuence given by [[Lawful Evil Deity (Magic giver)]]
+- [[Lawful Evil Deity (Magic giver)]] seeing mortals needing tools to survive sent part of their own essence out in the world. Allowing mortals to learn magic.
+- Being blessed with divine magic or magical knowledge is considered uncommon, divine casters are revered for their uniqueness

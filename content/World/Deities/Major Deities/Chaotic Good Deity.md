@@ -1,0 +1,12 @@
+- Female Figure (God of Tempest)
+- They are the ruler of all gods
+- They are not feared by the other gods, more respected
+- They have a lot of followers
+- These followers are not part of society
+- The followers live in secret
+- No major issues within their ranks
+- Their god frequently speak to them indirectly
+- God of all weather
+- They have always been the ruler of all gods even before mortals exsisted
+- They are the creator of all mortal life.
+- They love mortals

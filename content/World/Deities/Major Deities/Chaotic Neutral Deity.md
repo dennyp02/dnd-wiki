@@ -1,0 +1,7 @@
+- Feminine Figure (God of Love)
+- Stable and have many devout followers
+- This god is considered legal and their churches are fully funded by the government
+- Their followers are considered therapists of love, sex and the heart and many other things.
+- Their religion is extremely respected
+- The god is extremely active among their followers often speaking to them and choosing higher vessels to serve them.
+- They currently have no major issues within their ranks but are suffering from many smaller issues.

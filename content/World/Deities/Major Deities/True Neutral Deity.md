@@ -1,0 +1,6 @@
+- Male Figure (God of Knowledge)
+- Losing power due to unfaithful followers
+- Their loss of power is affecting mortal realms
+- Followers turn unfaithful due to corruption
+- Corruption is not a different gods or their followers doing.
+- God of true Justice and the corruption has affected them

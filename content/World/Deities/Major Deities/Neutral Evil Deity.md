@@ -1,0 +1,6 @@
+- Feminine Figure (God of Death)
+- They are going mad
+- They are not going mad because of an item, they are making themselves mad
+- They didn't lose their mind because of a traumatic event.
+- They are going mad from boredom, which they have been for a while
+- Their followers are aware of this, and many are losing their mind or powers due to this.

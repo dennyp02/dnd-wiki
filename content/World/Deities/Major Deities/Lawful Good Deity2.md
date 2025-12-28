@@ -1,0 +1,16 @@
+- Female Figure (God of War)
+- Imprisoned and forced into eternal slumber but their dreams can touch and influence the world
+- They do not use their dreams to find someone to break out of their slumber.
+- They do not want to be woken from their slumber
+- They do not want to take revenge on the person who imprisoned them
+- A god imprisoned them
+- It was the ruler of all gods
+- Their prison is almost unreachable by mortals
+- They are slumbering inside of the celestial planes
+- Their slumber is a punishment for their actions
+- They are okay with their punishment
+- Their actions were not in any way directed toward another god
+- Their actions affected mortals in a very bad way
+- They caused a big war
+- They created demons
+- They did not create the abyss
