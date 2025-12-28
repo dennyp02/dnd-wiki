@@ -2,7 +2,7 @@
 
 // put your custom CSS here!
 
-.wiki-img {
+img.wiki-img {
   width: 300px !important;
   height: 300px !important;
   object-fit: contain !important;
@@ -13,9 +13,33 @@
 
 a.img-zoom img {
   cursor: zoom-in;
-  transition: transform 0.2s ease;
 }
 
 a.img-zoom img:hover {
-  transform: scale(1.03);
+  outline: 2px solid rgba(255,255,255,0.25);
+  outline-offset: 2px;
+}
+
+.infobox {
+  border: 2px solid #888;
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #1b1b1b;
+  width: 300px;
+  float: right;
+  margin: 0 0 1rem 1rem;
+  font-size: 0.9rem;
+}
+
+.infobox img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.infobox h3 {
+  margin: 0.25rem 0;
+  font-size: 1.1rem;
+  border-bottom: 1px solid #555;
 }
